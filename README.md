@@ -40,22 +40,6 @@ Exemple, services en 2022 : l'indice passe de 90,39 à 92,98, soit +2,9 %. Poids
 
 En additionnant les cinq secteurs, on retrouve l'inflation publiée par l'Insee, à 0,1 point près (2,8 / 5,8 / 3,7 / 1,3 / 0,8 % pour 2021 à 2025, contre 2,8 / 5,9 / 3,7 / 1,3 / 0,8 % publiés).
 
-## Limites
-
-- Les contributions sont **calculées par mes soins**, ce ne sont pas des chiffres publiés par l'Insee.
-- L'inflation mesurée est celle d'un ménage moyen. Elle peut être très différente pour un ménage particulier.
-- Les pistes de décision proposées dans le rapport sont des suggestions tirées des données, pas des conseils financiers.
-
-## Ouvrir le rapport
-
-1. Télécharger ou cloner ce dépôt.
-2. Copier le dossier `Projet inflation` dans `C:\Projet inflation` (il contient les fichiers CSV).
-3. Ouvrir `Rapport_Inflation_V2.pbip` avec Power BI Desktop (fonction « Projets Power BI » activée dans les options).
-4. Cliquer sur Accueil > Actualiser pour charger les données.
-
-Une version avec des pages en HTML (visuel « HTML Content ») est aussi fournie dans le dossier `version-html`.
-
-## Outils
 
 Power BI Desktop (modèle de données, mesures DAX, visuels), Power Query, données Insee. 
 
