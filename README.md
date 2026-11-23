@@ -2,7 +2,7 @@
 
 Rapport d'analyse en Power BI, construit à partir des données de l'Insee.
 
-![Qui a fait monter les prix](analyse-inflation-france-insee/inflation.png)
+![Qui a fait monter les prix](inflation.png)
 
 
 **Question posée :** entre 2021 et 2025, quels secteurs ont tiré l'inflation, année après année, et lesquels sont des chocs passagers ou des hausses régulières ?
